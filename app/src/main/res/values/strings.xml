@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ListViewDemo</string>
+
+    <string-array name="state">
+        <item>Delhi</item>
+        <item>Chandigarh</item>
+        <item>Himachal</item>
+        <item>Haryana</item>
+        <item>Jammu</item>
+        <item>Delhi</item>
+        <item>Chandigarh</item>
+        <item>Himachal</item>
+        <item>Haryana</item>
+        <item>Jammu</item>
+        <item>Delhi</item>
+        <item>Chandigarh</item>
+        <item>Himachal</item>
+        <item>Haryana</item>
+        <item>Jammu</item>
+    </string-array>
+</resources>
